@@ -1,8 +1,7 @@
-# Multithreading-Set-Card-Game
-A java multithreading project implementing the "Set' card game.
-This project supports 2 players mode and Player VS PC aswell.
+# Set-card-game multithreaded 
+During my CS degree, we developed a Java application that simulates the "Set" card game. The game supports human players PC players.
 
-The goal of the assignment is to practice concurrent programming on Java 8 environment, and get basic experience with unit testing.
+The goal of the assignment is to practice concurrent programming through the utilization of threads, and get basic experience with unit testing.
 
 ![ezgif com-video-to-gif (1)](https://github.com/barakshalit/Multithreading-Set-Card-Game/assets/76451972/c123a301-5899-4c9a-ad2f-5bb7dd13a428)
 

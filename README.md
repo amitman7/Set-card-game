@@ -1,4 +1,4 @@
-# Set-card-game multithreaded 
+# Set-card-game 
 During my CS degree, we developed a Java application that simulates the "Set" card game. The game supports human players PC players.
 
 The goal of the assignment is to practice concurrent programming through the utilization of threads, and get basic experience with unit testing.

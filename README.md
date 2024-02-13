@@ -221,7 +221,7 @@ Note that this diagram only describes the general flow. It does not address how 
 
 
 #### Building with Maven
-In this assignment i use Maven as my build tool.
+In this assignment we use Maven as my build tool.
 
 #### Unit testing
 In this assignment, we use JUnit for testing.
